@@ -4,6 +4,6 @@ Criei esse repositório com o propósito de aprensentar um site de pizzaria - PI
 
 O conteúdo do projeto se baseia em sua maioria em HTML e CSS apenas, existe JavaScript apenas para a parte de interatividade onde uma barra no menu aparece mobile ou telas menores.
 
-Esse projeto foi feito no primeiro semestre - Ano 1 - da faculdade UNICSUL ADS (Análise e Desenvolvimento de Sistemas).
+Esse projeto foi feito no primeiro semestre - Período 1 - da faculdade UNICSUL (Análise e Desenvolvimento de Sistemas).
 
 Espero que gostem!
