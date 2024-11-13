@@ -11,7 +11,7 @@ Esse projeto foi feito no primeiro semestre - Ano 1 - da faculdade ADS (Análise
 
 Espero que gostem!
 
-En-US
+en-US
 
 (Hello!
 
@@ -34,7 +34,7 @@ A escolha de cor foi baseada na Teoria das Cores e outros sites de pizzarias exi
 
 A ideia inicial era vermelho e amarelo, entretanto, o site parecia algo voltado para fast food ao invés de pizzaria.
 
-En-Us
+en-Us
 
 (The color choice was based on Color Theory and other existing pizzeria websites. Brown referring to wood and something more rustic and yellow something more cheerful and something aimed at eating.
 
@@ -44,7 +44,7 @@ The initial idea was red and yellow, however, the site looked like something aim
 
 Já a escolha da logo foi uma "pizza relógio", a pizza remetendo obviamente à pizzaria e o relógio ao FAST do nome.
 
-En-Us
+en-Us
 
 (The choice of logo was a "pizza clock", the pizza obviously referring to the pizzeria and the clock to the FAST of the name.)
 
@@ -54,7 +54,7 @@ En-Us
 
 Colocamos três tópicos na área do cardápio, sendo, "As mais pedidas!", "Novos sabores!" e "Amantes por queijo!". Mas isso pode ser alterado ou aumentado dependendo do cliente e seus requisitos.
 
-En-Us
+en-Us
 
 (We put three topics in the menu area, being, "The most requested!", "New flavors!" and "Cheese lovers!". But this can be changed or increased depending on the customer and their requirements.)
 
@@ -64,7 +64,7 @@ Como escolha do cardápio, colocamos dentro de um card com imagem e seus valores
 
 Mais abaixo existe a área das bebidas com o mesmo estilo das pizzas, tendo imagem, tamanho e valores.
 
-En-Us
+en-Us
 
 (As a menu choice, we put it inside a card with an image and its values according to the size.
 
@@ -76,7 +76,7 @@ Further down there is the drinks area with the same style as the pizzas, with im
 
 A base dos cards se manteu assim como das pizzas.
 
-En-Us
+en-Us
 
 (The base of the cards was maintained as well as the pizzas.)
 
@@ -88,7 +88,7 @@ Usamos como base da localidade a região de Santo Amaro, SP.
 
 Como ideia usamos uma pizzaria restaurante física, entretanto, a pizzaria também realiza delivery através de aplicativos.
 
-En-Us
+en-Us
 
 (We used the region of Santo Amaro, SP as the basis for the location.
 
@@ -102,7 +102,7 @@ Criamos algumas avaliações sobre o local e as pizzas para tentar agarrar o cli
 
 Mais abaixo segue as informações sobre a pizzaria, como: Local, CEP, CNPJ, Telefone e Whatsapp. (Dados meramente ilustrativos!)
 
-En-Us
+en-Us
 
 (We created some reviews about the place and the pizzas to try to attract the customer to the pizzeria and make them sure that the pizzeria is of quality and renowned in the region.
 
@@ -114,7 +114,7 @@ Below is information about the pizzeria, such as: Location, CEP, CNPJ, Phone and
 
 A pizzaria que criamos também reserva espaços para eventos, como: Aniversários, Casamentos, Festa, Festas Corporativas, Happy Hour e outros.
 
-En-Us
+en-Us
 
 (The pizzeria we created also reserves spaces for events, such as: Birthdays, Weddings, Parties, Corporate Parties, Happy Hour and others.)
 
@@ -124,7 +124,7 @@ En-Us
 
 Mais abaixo está o botão de "RESERVAR" para o cliente que deseja realizar algum evento.
 
-En-Us
+en-Us
 
 (Below is the "RESERV" button for the customer who wants to hold an event.)
 
@@ -132,7 +132,7 @@ En-Us
 
 Criamos um formulário simples apenas para demosntração, contento: Nome Completo, Telefone, Quantidade de Pessoas e Data do Evento.
 
-En-Us
+en-Us
 
 (We created a simple form just for demonstration, content: Full Name, Phone, Number of People and Event Data.)
 
@@ -142,7 +142,7 @@ En-Us
 
 Para dar uma acrescentada ao projeto colocamos uma página sobre a pizzaria: Quando ela foi fundada, história, com o que tipo de ingredientes trabalhos e qual é o nosso propósito além de vender pizzas.
 
-En-Us
+en-Us
 
 (To add to the project we put a page about the pizzeria: When it was founded, history, what kind of ingredients they work with and what is our purpose besides selling pizzas.)
 
@@ -150,6 +150,6 @@ En-Us
 
 Resumindo o projeto, foi feito para nosso grupo aprender o básico de HTML e CSS como visto. Assim tando uma introduzida ao mercado de trabalho de desenvolvimento.
 
-En-Us
+en-Us
 
 (In summary, the project was made for our group to learn the basics of HTML and CSS as seen. Thus being introduced to the development labor market.)
