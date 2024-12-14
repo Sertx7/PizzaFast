@@ -13,7 +13,7 @@ Espero que gostem!
 
 en-US
 
-(Hello!
+Hello!
 
 I created this repository with the purpose of presenting a pizzeria website - PIZZA FAST - that I and some of my college colleagues created.
 It's a simple project just for starter learning and general knowledge of web development.
