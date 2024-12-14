@@ -36,7 +36,7 @@ A ideia inicial era vermelho e amarelo, entretanto, o site parecia algo voltado 
 
 en-Us
 
-(The color choice was based on Color Theory and other existing pizzeria websites. Brown referring to wood and something more rustic and yellow something more cheerful and something aimed at eating.
+The color choice was based on Color Theory and other existing pizzeria websites. Brown referring to wood and something more rustic and yellow something more cheerful and something aimed at eating.
 
 The initial idea was red and yellow, however, the site looked like something aimed at fast food rather than pizzeria.)
 
@@ -46,7 +46,7 @@ Já a escolha da logo foi uma "pizza relógio", a pizza remetendo obviamente à 
 
 en-Us
 
-(The choice of logo was a "pizza clock", the pizza obviously referring to the pizzeria and the clock to the FAST of the name.)
+The choice of logo was a "pizza clock", the pizza obviously referring to the pizzeria and the clock to the FAST of the name.)
 
 # Cardápio / Menu
 
@@ -56,7 +56,7 @@ Colocamos três tópicos na área do cardápio, sendo, "As mais pedidas!", "Novo
 
 en-Us
 
-(We put three topics in the menu area, being, "The most requested!", "New flavors!" and "Cheese lovers!". But this can be changed or increased depending on the customer and their requirements.)
+We put three topics in the menu area, being, "The most requested!", "New flavors!" and "Cheese lovers!". But this can be changed or increased depending on the customer and their requirements.)
 
 ## Cards
 
@@ -66,7 +66,7 @@ Mais abaixo existe a área das bebidas com o mesmo estilo das pizzas, tendo imag
 
 en-Us
 
-(As a menu choice, we put it inside a card with an image and its values according to the size.
+As a menu choice, we put it inside a card with an image and its values according to the size.
 
 Further down there is the drinks area with the same style as the pizzas, with image, size and prices.)
 
@@ -78,7 +78,7 @@ A base dos cards se manteu assim como das pizzas.
 
 en-Us
 
-(The base of the cards was maintained as well as the pizzas.)
+The base of the cards was maintained as well as the pizzas.)
 
 # Localidade / Location
 
@@ -90,7 +90,7 @@ Como ideia usamos uma pizzaria restaurante física, entretanto, a pizzaria tamb�
 
 en-Us
 
-(We used the region of Santo Amaro, SP as the basis for the location.
+We used the region of Santo Amaro, SP as the basis for the location.
 
 As an idea, we used a physical restaurant pizzeria, however, the pizzeria also delivers via apps.)
 
@@ -104,7 +104,7 @@ Mais abaixo segue as informações sobre a pizzaria, como: Local, CEP, CNPJ, Tel
 
 en-Us
 
-(We created some reviews about the place and the pizzas to try to attract the customer to the pizzeria and make them sure that the pizzeria is of quality and renowned in the region.
+We created some reviews about the place and the pizzas to try to attract the customer to the pizzeria and make them sure that the pizzeria is of quality and renowned in the region.
 
 Below is information about the pizzeria, such as: Location, CEP, CNPJ, Phone and Whatsapp. [Merely illustrative data!])
 
@@ -116,7 +116,7 @@ A pizzaria que criamos também reserva espaços para eventos, como: Aniversário
 
 en-Us
 
-(The pizzeria we created also reserves spaces for events, such as: Birthdays, Weddings, Parties, Corporate Parties, Happy Hour and others.)
+The pizzeria we created also reserves spaces for events, such as: Birthdays, Weddings, Parties, Corporate Parties, Happy Hour and others.)
 
 ## Reservas / Reservations
 
@@ -126,7 +126,7 @@ Mais abaixo está o botão de "RESERVAR" para o cliente que deseja realizar algu
 
 en-Us
 
-(Below is the "RESERV" button for the customer who wants to hold an event.)
+Below is the "RESERV" button for the customer who wants to hold an event.)
 
 ![Formulario - Pizza Fast](https://github.com/Turgho/Pizza-Fast-Repository/blob/main/PizzaFast%20-%20Site/Screenshots/Formulario.png)
 
@@ -134,7 +134,7 @@ Criamos um formulário simples apenas para demosntração, contento: Nome Comple
 
 en-Us
 
-(We created a simple form just for demonstration, content: Full Name, Phone, Number of People and Event Data.)
+We created a simple form just for demonstration, content: Full Name, Phone, Number of People and Event Data.)
 
 # Sobre / About
 
@@ -144,7 +144,7 @@ Para dar uma acrescentada ao projeto colocamos uma página sobre a pizzaria: Qua
 
 en-Us
 
-(To add to the project we put a page about the pizzeria: When it was founded, history, what kind of ingredients they work with and what is our purpose besides selling pizzas.)
+To add to the project we put a page about the pizzeria: When it was founded, history, what kind of ingredients they work with and what is our purpose besides selling pizzas.)
 
 # Resumo / Summary
 
@@ -152,4 +152,4 @@ Resumindo o projeto, foi feito para nosso grupo aprender o básico de HTML e CSS
 
 en-Us
 
-(In summary, the project was made for our group to learn the basics of HTML and CSS as seen. Thus being introduced to the development labor market.)
+In summary, the project was made for our group to learn the basics of HTML and CSS as seen. Thus being introduced to the development labor market.)
