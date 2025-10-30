@@ -110,7 +110,7 @@ Below is information about the pizzeria, such as: Location, CEP, CNPJ, Phone and
 
 # Eventos / Events
 
-![Eventos - PizzaFast](https://github.com/Turgho/Pizza-Fast-Repository/blob/main/PizzaFast%20-%20Site/Screenshots/eventos.png)
+![Eventos - PizzaFast](https://i.imgur.com/laxj9j4.png)
 
 A pizzaria que criamos também reserva espaços para eventos, como: Aniversários, Casamentos, Festa, Festas Corporativas, Happy Hour e outros.
 
@@ -120,7 +120,7 @@ The pizzeria we created also reserves spaces for events, such as: Birthdays, Wed
 
 ## Reservas / Reservations
 
-![Reservar - PizzaFast](https://github.com/Turgho/Pizza-Fast-Repository/blob/main/PizzaFast%20-%20Site/Screenshots/reservar.png)
+![Reservar - PizzaFast](https://i.imgur.com/trj48Sz.png)
 
 Mais abaixo está o botão de "RESERVAR" para o cliente que deseja realizar algum evento.
 
@@ -128,7 +128,7 @@ en-Us
 
 Below is the "RESERV" button for the customer who wants to hold an event.)
 
-![Formulario - Pizza Fast](https://github.com/Turgho/Pizza-Fast-Repository/blob/main/PizzaFast%20-%20Site/Screenshots/Formulario.png)
+![Formulario - Pizza Fast](https://i.imgur.com/Fo35u9Y.png)
 
 Criamos um formulário simples apenas para demosntração, contento: Nome Completo, Telefone, Quantidade de Pessoas e Data do Evento.
 
@@ -138,7 +138,7 @@ We created a simple form just for demonstration, content: Full Name, Phone, Numb
 
 # Sobre / About
 
-![Sobre - PizzaFast](https://github.com/Turgho/Pizza-Fast-Repository/blob/main/PizzaFast%20-%20Site/Screenshots/sobre.png)
+![Sobre - PizzaFast](https://i.imgur.com/rgh7FvR.png)
 
 Para dar uma acrescentada ao projeto colocamos uma página sobre a pizzaria: Quando ela foi fundada, história, com o que tipo de ingredientes trabalhos e qual é o nosso propósito além de vender pizzas.
 
