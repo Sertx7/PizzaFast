@@ -26,7 +26,7 @@ Hope you like it!)
 
 # Home
 
-![Home - PizzaFast](https://i.imgur.com/11kRYjO.png)
+![Home - PizzaFast](https://i.imgur.com/4l0l1yI.png)
 
 ## Cores / Colors
 
@@ -50,7 +50,7 @@ The choice of logo was a "pizza clock", the pizza obviously referring to the piz
 
 # Cardápio / Menu
 
-![Cardapio - PizzaFast](https://github.com/Turgho/Pizza-Fast-Repository/blob/main/PizzaFast%20-%20Site/Screenshots/Cardapio.png)
+![Cardapio - PizzaFast](https://i.imgur.com/11kRYjO.png)
 
 Colocamos três tópicos na área do cardápio, sendo, "As mais pedidas!", "Novos sabores!" e "Amantes por queijo!". Mas isso pode ser alterado ou aumentado dependendo do cliente e seus requisitos.
 
