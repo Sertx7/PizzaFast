@@ -130,7 +130,7 @@ Below is the "RESERV" button for the customer who wants to hold an event.)
 
 ![Formulario - Pizza Fast](https://i.imgur.com/Fo35u9Y.png)
 
-Criamos um formulário simples apenas para demosntração, contento: Nome Completo, Telefone, Quantidade de Pessoas e Data do Evento.
+Criamos um formulário simples apenas para demonstração, contento: Nome Completo, Telefone, Quantidade de Pessoas e Data do Evento.
 
 en-Us
 
