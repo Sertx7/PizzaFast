@@ -72,7 +72,7 @@ Further down there is the drinks area with the same style as the pizzas, with im
 
 ## Bebidas / Drinks
 
-![Bebidas - PizzaFast](https://github.com/Turgho/Pizza-Fast-Repository/blob/main/PizzaFast%20-%20Site/Screenshots/Bebidas.png)
+![Bebidas - PizzaFast](https://i.imgur.com/wLf29gZ.png)
 
 A base dos cards se manteu assim como das pizzas.
 
@@ -82,7 +82,7 @@ The base of the cards was maintained as well as the pizzas.)
 
 # Localidade / Location
 
-![Localidade - PizzaFast](https://github.com/Turgho/Pizza-Fast-Repository/blob/main/PizzaFast%20-%20Site/Screenshots/Localidade.png)
+![Localidade - PizzaFast](https://i.imgur.com/8H3UGSj.png)
 
 Usamos como base da localidade a região de Santo Amaro, SP.
 
@@ -96,7 +96,7 @@ As an idea, we used a physical restaurant pizzeria, however, the pizzeria also d
 
 ## Avaliação / Rating
 
-![Avaliacao - PizzaFast](https://github.com/Turgho/Pizza-Fast-Repository/blob/main/PizzaFast%20-%20Site/Screenshots/avaliacao.png)
+![Avaliacao - PizzaFast](https://i.imgur.com/oic0gZp.png)
 
 Criamos algumas avaliações sobre o local e as pizzas para tentar agarrar o cliente à pizzaria e faze-lô ter certeza que a pizzaria é de qualidade e renome na região.
 
