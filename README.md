@@ -26,7 +26,7 @@ Hope you like it!)
 
 # Home
 
-![Home - PizzaFast](https://github.com/Turgho/Pizza-Fast-Repository/blob/main/PizzaFast%20-%20Site/Screenshots/Home.png)
+![Home - PizzaFast]([https://github.com/Turgho/Pizza-Fast-Repository/blob/main/PizzaFast%20-%20Site/Screenshots/Home.png](https://i.imgur.com/11kRYjO.png))
 
 ## Cores / Colors
 
