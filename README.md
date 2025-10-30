@@ -26,7 +26,7 @@ Hope you like it!)
 
 # Home
 
-![Home - PizzaFast](https://i.imgur.com/11kRYjO.png).
+![Home - PizzaFast](https://i.imgur.com/11kRYjO.png)
 
 ## Cores / Colors
 
